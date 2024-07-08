@@ -1,17 +1,45 @@
-# My Other Portfolios
-### • Tableau: https://public.tableau.com/app/profile/christian.canlas/vizzes
-### • Kaggle: https://www.kaggle.com/christianrc
+<h1 align="center">Hey there 👋</h1>
 
-# Portfolio Highlights
+###
 
-### Project : Multiple Retail Sales Forecasting ML Models Embedded in Simulated ERP GUI
+<h3 align="left">👩‍💻  About Me</h3>
 
-### Project : E-Commerce Data Warehouse Setup
+###
 
-### Project : Inventory Optimization using Linear Programming
+<p align="left">Hello! My name is Chris, I am from the USA.<br><br>- 🔭 I am currently working as a Business Intelligence Analyst.<br>- 📚 I am currently learning CUDA. <br>- ⚡ In my free time I like to hike, fish, read, travel, and play video games.</p>
 
-### Project : Part Category Recommendations using ML
+###
 
-### Project : Fraudulent Transaction Detection
+<h3 align="left">🛠 Language and tools</h3>
 
-### Project : General ML Model Deployment using Pickle, Docker, & Azure ML
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristianRCanlas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianRCanlas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ChristianRCanlas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
