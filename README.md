@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello! My name is Chris, I am from the USA.<br><br>- 🔭 I am currently working as a Business Intelligence Analyst.<br>- 📚 I am currently learning CUDA. <br>- ⚡ In my free time I like to hike, fish, read, travel, and play video games.</p>
+<p align="left">Hello! I’m Chris, a seasoned Data Consultant with a proven track record of leveraging data tools and insights to drive strategic decision-making.<br><br>- 🔭 I am currently working as a Business Intelligence Analyst.<br>- 📚 I am currently learning CUDA. <br>- ⚡ In my free time I like to hike, fish, read, travel, and play video games.</p>
 
 ###
 
