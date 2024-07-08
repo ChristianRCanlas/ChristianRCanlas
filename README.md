@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m Chris, a seasoned Data Consultant with a proven track record of leveraging data tools and insights to drive strategic decision-making.<br><br>- 🔭 I am currently working as a Business Intelligence Analyst.<br>- 📚 I am currently learning CUDA, Mojo, & Qiskit. <br>- ⚡ In my free time I like to hike, fish, read, travel, and play video games.</p>
+<p align="left">I’m Chris, a seasoned Data Consultant with a proven track record of leveraging data tools and insights to drive strategic decision-making.<br><br>- 🔭 In my full-time job, I am currently working as a Business Intelligence Analyst.<br>-<br>- 🔭 However, I am also open to freelance work.<br>- 📚 I am currently learning CUDA, Mojo, & Qiskit. <br>- ⚡ In my free time I like to hike, fish, read, travel, and play video games.</p>
 
 ###
 
