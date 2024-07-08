@@ -1,16 +1,17 @@
-## Hi there 👋
+# My Other Portfolios
+### • Tableau: https://public.tableau.com/app/profile/christian.canlas/vizzes
+### • Kaggle: https://www.kaggle.com/christianrc
 
-<!--
-**ChristianRCanlas/ChristianRCanlas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Portfolio Highlights
 
-Here are some ideas to get you started:
+### Project : Multiple Retail Sales Forecasting ML Models Embedded in Simulated ERP GUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Project : E-Commerce Data Warehouse Setup
+
+### Project : Inventory Optimization using Linear Programming
+
+### Project : Part Category Recommendations using ML
+
+### Project : Fraudulent Transaction Detection
+
+### Project : General ML Model Deployment using Pickle, Docker, & Azure ML
