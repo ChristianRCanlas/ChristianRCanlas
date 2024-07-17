@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m Chris.<br><br>- 📚 I am currently learning CUDA, Mojo, & Qiskit. <br>- ⚡ In my free time I like to hike, fish, read, travel, and play video games.</p>
+<p align="left">I’m Chris.<br><br>- 📚 I am currently learning RNN, LSTM, & Transformers. <br>- ⚡ In my free time I like to hike, fish, read, travel, and play video games.</p>
 
 ###
 
