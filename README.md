@@ -1,44 +1,31 @@
-<h1 align="left">Hey there 👋</h1>
+# For Business Inquiries:
 
-###
+E-mail: canlasbusiness@gmail.com
 
-<h3 align="left">👩‍💻  About Me</h3>
+# My Other Portfolios
+If you're interested in more of my data visualization work, please visit my 
+[Tableau Public portfolio.](https://public.tableau.com/app/profile/christian.canlas/vizzes)
 
-###
+If you're interested in more of my data science-related personal projects, please visit my [Kaggle profile.](https://www.kaggle.com/christianrcanlas)
 
-<p align="left">I’m Chris.<br><br>- 📚 I am currently learning RNN, LSTM, & Transformers. <br>- ⚡ In my free time I like to hike, fish, read, travel, and play video games.</p>
+# Project Highlights
 
-###
+1. [Time-Series Decomposition](https://github.com/ChristianRCanlas/ChristianRCanlas.github.io/blob/main/07.%20R%20Markdown%20Documents/Time-Series%20Decomposition.Rmd)
 
-<h3 align="left">🛠 Language and tools</h3>
+    - I elaborate on how to interpret and use time-series decomposition to analyze data. It covers methods to extract trend, seasonal, and residual components, providing practical guidance on applying these techniques.
 
-###
+2. [Time-Series Forecasting Versus Traditional Manufacturing](https://github.com/ChristianRCanlas/ChristianRCanlas.github.io/blob/main/07.%20R%20Markdown%20Documents/Time-Series%20Forecasting%20Versus%20Traditional%20Manufacturing%20Forecasting.Rmd)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+    - I provide a detailed analysis on time-series forecasting techniques versus traditional manufacturing forecasting methods.
 
-###
+3. [Hierarchical Forecasting in Python](https://github.com/ChristianRCanlas/ChristianRCanlas.github.io/blob/main/01.%20Hierarchical%20Forecasting/Hierarchical%20Forecasting%20in%20Python.ipynb)
 
-<h3 align="left">🔥   My Stats :</h3>
+    - I demonstrate how to apply hierarchical forecasting methods to aggregated datasets. In my project, I explore techniques for forecasting at different levels of data aggregation, showcasing practical implementation in Python.
 
-###
+4. [Long Short-Term Memory (LSTM) Forecasting in Python](https://github.com/ChristianRCanlas/ChristianRCanlas.github.io/blob/main/05.%20Long%20Short-Term%20Memory%20(LSTM)/LSTM%20Forecasting%20in%20Python.ipynb)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristianRCanlas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianRCanlas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
-</div>
+    - I showcase a LSTM model I used for time-series forecasting tasks in Python, leveraging deep learning for improved accuracy.
 
-###
+5. [Support Vector Regression (SVR) Forecasting in Python](https://github.com/ChristianRCanlas/ChristianRCanlas.github.io/blob/main/06.%20Support%20Vector%20Regression%20(SVR)/SVR%20in%20Python.ipynb)
+
+    - In this project, I elaborate on the application of Support Vector Regression (SVR) for time-series forecasting. I emphasize SVR's capability to handle non-linear relationships in data, demonstrating its use in predictive modeling.
